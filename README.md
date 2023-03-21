@@ -1,5 +1,5 @@
 # Let-Me-Count
-Collaborate with [Yifan Lin](https://github.com/lin-yifan1).
+The project was completed by [Changbo Wu](https://github.com/ZER0-Nu1L) and [Yifan Lin](https://github.com/lin-yifan1) in collaboration. The original repo was: https://github.com/ZER0-Nu1L/Let-Me-Count.
 
 > Median trick is implemented on the 'median-trick' branch. (Only Tofino version).
 
